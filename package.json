@@ -1,0 +1,12 @@
+{
+	"id" : "Topic Gems Mod",
+	"name" : "Topic Gems Mod",
+	"version" : "1.00",
+	"author" : "ModMike",
+	"url" : "https://github.com/Vladimir1010/Topic-Gems-Mod-Renewed",
+	"description" : "The Topic Gems Mod delivers to add an assorted variety of topics to GDT to provide a stable yet experimental play of the game. If you may be biased about how the topics are scored, either find another topic mod or deal with it *sunglasses*. Note: Some topics are based generally and others are specific types of a topic.",
+	"main" : "./TGMod.js",
+	"dependencies" : {
+		"gdt-modAPI" : "0.1.x"
+	}
+}
